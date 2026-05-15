@@ -3,7 +3,7 @@ function generateWork() {
     const workType = document.getElementById('work-type').value;
     const contentArea = document.getElementById('essay-content');
     const nextBtn = document.getElementById('next-btn');
-
+ 
     if (!topic) {
         alert("Iltimos, avval mavzuni kiriting!");
         return;
