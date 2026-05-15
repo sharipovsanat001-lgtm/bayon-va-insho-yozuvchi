@@ -8,7 +8,7 @@ function generateWork() {
         alert("Iltimos, avval mavzuni kiriting!"); 
         return;   
     }  
-
+ 
     let result = "";   
 
     if (workType === "insho") {  
