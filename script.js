@@ -11,7 +11,7 @@ function generateWork() {
 
     let result = "";  
 
-    if (workType === "insho") { 
+    if (workType === "insho") {  
         // KENGAYTIRILGAN INSHO VARIANTLARI
         const intros = [
             `${topic} - bu insoniyat ma'naviyatining eng go'zal qirralaridan biridir. Ushbu mavzu haqida gap ketganda, har birimizning qalbimizda o'zgacha iliqlik va mas'uliyat hissi paydo bo'ladi. Zero, jamiyat taraqqiyotini ushbu fundamental tushunchasiz tasavvur etib bo'lmaydi.`,
