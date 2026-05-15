@@ -9,7 +9,7 @@ function generateWork() {
         return;  
     } 
 
-    let result = "";  
+    let result = "";   
 
     if (workType === "insho") {  
         // KENGAYTIRILGAN INSHO VARIANTLARI
