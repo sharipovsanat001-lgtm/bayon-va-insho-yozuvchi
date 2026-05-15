@@ -7,7 +7,7 @@ function generateWork() {
     if (!topic) {
         alert("Iltimos, avval mavzuni kiriting!");
         return;
-    }
+    } 
 
     let result = "";
 
