@@ -5,7 +5,7 @@ function generateWork() {
     const nextBtn = document.getElementById('next-btn');
  
     if (!topic) {
-        alert("Iltimos, avval mavzuni kiriting!");
+        alert("Iltimos, avval mavzuni kiriting!"); 
         return;
     } 
 
